@@ -106,4 +106,4 @@ Partial Autocorrelation
 <img width="1210" height="641" alt="image" src="https://github.com/user-attachments/assets/fea050f2-b3fd-48c3-8576-94312b5733d6" />
 
 RESULT:
-Thus, a python program is created to fir ARMA Model succ
+Thus, a python program is created to fir ARMA Model successful.
